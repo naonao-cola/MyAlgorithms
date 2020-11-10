@@ -1,0 +1,35 @@
+##############################
+## Folders                  ##
+##############################
+ipch
+DLL_Release
+Debug
+.vs
+##############################
+##      中间文件            ##
+##############################
+*.bsc
+*.pdb
+*.ipdb
+*.obj
+*.iobj
+*.cache
+*.deps
+*.idb
+*.lastbuildstate
+*.tlog
+*.sbr
+*.aps
+*.VC.db
+*.opendb
+*.aps
+*.log
+.vs/
+*.res
+*.sdf
+*.ipch
+*.ilk
+*.exp
+*.pch
+*.bsc
+*.res
